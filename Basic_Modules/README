@@ -1,0 +1,2 @@
+some basic modules in computer architecture, which will be used in CPU designs.
+datapath is designed for load,incremented load and mirrored load operations. (only for this lab)
